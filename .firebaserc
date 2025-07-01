@@ -1,5 +1,5 @@
-{
+echo {
   "projects": {
-    "default": "TU_ID_PROYECTO_FIREBASE"
+    "default": "detox-digital-premium"
   }
-}
+} > .firebaserc
